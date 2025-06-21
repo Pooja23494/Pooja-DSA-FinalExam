@@ -24,8 +24,8 @@
 # Merge and Quick Sort Output:
 
 # Merge Sort
-![alt text](<Screenshot 2025-06-21 142628.png>)
-# Quick Sort 
 ![alt text](<Screenshot 2025-06-21 142547.png>)
+# Quick Sort 
+![alt text](<Screenshot 2025-06-21 142620-1.png>)
 # Exit Program 
-![alt text](<Screenshot 2025-06-21 142620.png>)
+![alt text](<Screenshot 2025-06-21 142628.png>)
